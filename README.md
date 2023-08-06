@@ -16,7 +16,7 @@ Live Link : https://64cfc8eb2ca857657ba96205--glittery-concha-312815.netlify.app
 
 ### Setup
 - Open your terminal on your computer
-- To use the application, please clone the repository to your local computer `git clone git@github.com:Chinkin-Kambewu/Front-end_Restaurant.git` 
+- To use the application, please clone the repository to your local computer `git clone git@github.com:Chinkin-Kambewu/Easy_Bank_Landing.git` 
 
 
 ### Usage

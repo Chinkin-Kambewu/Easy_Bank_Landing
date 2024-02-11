@@ -26,7 +26,7 @@ Live Link : https://64cfc8eb2ca857657ba96205--glittery-concha-312815.netlify.app
 ## AUTHOR
 **Chinkin Kambewu**
 
-- LinkedIn: [Stephanie Sakuhuni](https://www.linkedin.com/in/chinkin-kambewu/) 
+- LinkedIn: [Chinkin Kambewu](https://www.linkedin.com/in/chinkin-kambewu/) 
 
 
 
